@@ -8,42 +8,37 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ## 🛠 Technical Skills
 
 ### **Development & Programming**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-red?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-34ADFF?style=flat-square&logo=compuware&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF4B4B?style=flat-square&logo=algorithm&logoColor=white)
 
 ### **Frontend & Backend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### **AI, ML & Security**
-![AI](https://img.shields.io/badge/Artificial_Intelligence-robot?style=for-the-badge&logo=openai&logoColor=white&color=412991)
-![ML](https://img.shields.io/badge/Machine_Learning-brain?style=for-the-badge&logo=scikitlearn&logoColor=white&color=F7931E)
-![CyberSecurity](https://img.shields.io/badge/Cyber_Security-%2320232a.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web_Services_Security-%23D32F2F.svg?style=for-the-badge&logo=auth0&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-%23005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![CyberSecurity](https://img.shields.io/badge/Cyber_Security-31E1F7?style=flat-square&logo=springsecurity&logoColor=black)
+![Web Security](https://img.shields.io/badge/Web_Security-D32F2F?style=flat-square&logo=auth0&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-005571?style=flat-square&logo=elasticstack&logoColor=white)
 
 ### **Cloud & Networking**
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Networking](https://img.shields.io/badge/Computer_Networking-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-sky?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-049fd9?style=flat-square&logo=cisco&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![DBMS](https://img.shields.io/badge/DBMS-storage?style=for-the-badge&color=grey)
-
-### **Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -56,59 +51,38 @@ I specialize in building scalable web applications and exploring Machine Learnin
 | **Cyber Security Job Simulation** | Forage | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Forage_CyberJobSimulation.pdf) |
 
 ---
-## 📊 GitHub Activity & Stats
-
-### 🔹 Real-Time Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=radical&cache_seconds=1800" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔹 12-Month Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HetLimbani-learnerboy&theme=radical&area=true&hide_border=true" width="100%" alt="Month-wise Activity Graph" />
-</p>
-
----
-
-### 🔹 Commit Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HetLimbani-learnerboy&theme=radical&cache_seconds=1800" width="100%" alt="GitHub Streak Stats" />
-</p>
-
-
----
 
 ## 🧩 LeetCode Activity
-"Continuously refining my problem-solving skills and mastery of Data Structures and Algorithms; here is a snapshot of my journey through algorithmic challenges."
+"Continuously refining my problem-solving skills and mastery of Data Structures and Algorithms."
 
 <p align="center">
   <a href="https://leetcode.com/u/DpCWSEyDG2/">
-    <img src="https://leetcard.jacoblin.cool/DpCWSEyDG2?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/DpCWSEyDG2?theme=light&font=Recursive&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
 ---
 
 ## 📄 Resume
-Looking for my professional background? You can view or download my CV here:
+Looking for my professional background? Click below to download:
 
-[![Download Resume](https://img.shields.io/badge/Download_Resume-0078D4?style=for-the-badge&logo=get-pocket&logoColor=white)](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/HetLimbani_Resume.pdf)
+<a href="https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/HetLimbani_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download_Resume_⬇️-0078D4?style=for-the-badge&logoColor=white" height="40px" />
+</a>
+
 ---
 
 ## 🤝 Contact Me
 
 <p align="left">
 <a href="mailto:hetlimbani61@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/het_5506/?igsh=bzlteHI4c2xqcGZn#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/het_5506/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/het-limbani-a62a8131a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
