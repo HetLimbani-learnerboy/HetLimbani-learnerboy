@@ -98,14 +98,14 @@ Looking for my professional background? Click below to download:
 <br />
 
 ### **🎨 Hobbies & Passion**
-<p align="left">
-  <img src="https://img.shields.io/badge/Traveling-FFF5F5?style=for-the-badge&logo=adventure-white&logoColor=FF4B4B" height="35">
-  <img src="https://img.shields.io/badge/Gaming-F5F5FF?style=for-the-badge&logo=get-pocket&logoColor=0078D4" height="35">
-  <img src="https://img.shields.io/badge/Tech_Exploring-F5FFF5?style=for-the-badge&logo=exploration&logoColor=6DA55F" height="35">
-  <img src="https://img.shields.io/badge/Problem_Solving-FFF9F5?style=for-the-badge&logo=puzzle&logoColor=F7931E" height="35">
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <img src="https://img.shields.io/badge/Traveling-FFF5F5?style=for-the-badge&logo=adventure-white&logoColor=FF4B4B" height="35">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gaming-F5F5FF?style=for-the-badge&logo=get-pocket&logoColor=0078D4" height="35">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tech_Exploring-F5FFF5?style=for-the-badge&logo=exploration&logoColor=6DA55F" height="35">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Problem_Solving-FFF9F5?style=for-the-badge&logo=puzzle&logoColor=F7931E" height="35">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Side_Projects-F5F5F5?style=for-the-badge&logo=github&logoColor=333" height="35">
+</marquee>
 </details>
----
 
 ## 🤝 Contact Me
 
