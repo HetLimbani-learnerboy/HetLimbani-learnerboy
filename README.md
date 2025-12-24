@@ -1,7 +1,9 @@
 # Hi, I'm Het Limbani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### 🚀 Enthusiastic CSE (AI & ML) Student & Full-Stack Developer
-I specialize in building scalable web applications and exploring Machine Learning. Currently mastering DSA in Java and cloud deployment.
+I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experience in full-stack development and machine learning. I build scalable applications using React.js and Node.js, integrate APIs, and develop ML models in Python. I am proficient in MongoDB and PostgreSQL and have a strong foundation in Data Structures and Algorithms, actively solving LeetCode problems in Java. I bring strong problem-solving, analytical, and collaborative skills.😉
+
+<img src="https://komarev.com/ghpvc/?username=HetLimbani-learnerboy&label=PROFILE+VIEWS&color=0078D4&style=flat-square" alt="Profile Views" />
 
 ---
 
