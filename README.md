@@ -82,7 +82,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experien
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/HetLimbani_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download_CV_⬇️-0078D4?style=for-the-badge&logoColor=white" height="40px" />
+    <img src="https://img.shields.io/badge/Download_⬇️-0078D4?style=for-the-badge&logoColor=white" height="40px" />
   </a>
 </p>
 
