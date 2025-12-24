@@ -8,31 +8,37 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ## 🛠 Technical Skills
 
 ### **Development & Programming**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-34ADFF?style=flat-square&logo=compuware&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF4B4B?style=flat-square&logo=algorithm&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
+<img src="https://img.shields.io/badge/OOP-34ADFF?style=for-the-badge&logo=compuware&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/DSA-FF4B4B?style=for-the-badge&logo=algorithm&logoColor=white" height="40">
 
 ### **Frontend & Backend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40">
 
 ### **AI, ML & Security**
-![AI](https://img.shields.io/badge/Artificial_Intelligence-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![CyberSecurity](https://img.shields.io/badge/Cyber_Security-31E1F7?style=flat-square&logo=springsecurity&logoColor=black)
-![Web Security](https://img.shields.io/badge/Web_Security-D32F2F?style=flat-square&logo=auth0&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-005571?style=flat-square&logo=elasticstack&logoColor=white)
+<img src="https://img.shields.io/badge/Artificial_Intelligence-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Cyber_Security-31E1F7?style=for-the-badge&logo=springsecurity&logoColor=black" height="40">
+<img src="https://img.shields.io/badge/Web_Security-D32F2F?style=for-the-badge&logo=auth0&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge&logo=elasticstack&logoColor=white" height="40">
 
 ### **Cloud & Networking**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-049fd9?style=flat-square&logo=cisco&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Networking-049fd9?style=for-the-badge&logo=cisco&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="40">
+
+### **Databases & Tools**
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="40"> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40">
 
 ### **Databases & Tools**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
