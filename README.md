@@ -79,6 +79,30 @@ Looking for my professional background? Click below to download:
 
 ---
 
+## 🔍 Additional Information
+
+<details>
+<summary><b>✨ Click to reveal my Interests & Hobbies</b></summary>
+<br />
+
+### **🌱 My Interests**
+> I am deeply passionate about the following domains, constantly building projects to bridge the gap between theory and real-world application:
+
+* 🛡️ <font color="#31E1F7">**Cyber Security:**</font> Exploring ethical hacking, network security, and cryptography.
+* 🧠 <font color="#F7931E">**Machine Learning:**</font> Building predictive models and exploring neural networks.
+* 💻 <font color="#6DA55F">**MERN Stack:**</font> Creating end-to-end scalable web applications with high performance.
+
+<br />
+
+### **🎨 Hobbies & Passion**
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&width=600&lines=Exploring+new+technologies+every+day...;Building+cool+side+projects+🚀;Traveling+to+discover+new+cultures+🌍;Gaming+to+sharpen+strategy+skills+🎮;Problem-solving+one+challenge+at+a+time+🧩" alt="Typing SVG" />
+</p>
+
+</details>
+
+---
+
 ## 🤝 Contact Me
 
 <p align="left">
@@ -94,4 +118,3 @@ Looking for my professional background? Click below to download:
 </p>
 
 ---
-*“Coding the future, one algorithm at a time.”* ✨
