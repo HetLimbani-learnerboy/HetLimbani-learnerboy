@@ -59,8 +59,6 @@ I specialize in building scalable web applications and exploring Machine Learnin
 
 ## 📊 GitHub Activity & Stats
 
-## 📊 GitHub Activity & Stats
-
 ### **Real-Time Metrics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=radical" width="48%" alt="Top Languages" />
