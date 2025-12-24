@@ -1,4 +1,4 @@
-# Hi, I'm Het Limbani 👋 
+# Hi, I'm Het Limbani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### 🚀 Enthusiastic CSE (AI & ML) Student & Full-Stack Developer
 I specialize in building scalable web applications and exploring Machine Learning. Currently mastering DSA in Java and cloud deployment.
@@ -64,6 +64,15 @@ I specialize in building scalable web applications and exploring Machine Learnin
 
 ---
 
+### 🧩 LeetCode Stats
+"My journey through algorithmic challenges and consistent practice in Data Structures."
+
+<p align="left">
+  <img src="https://leetcode-stats-six.vercel.app/?username=your_leetcode_username&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📄 Resume
 Need a copy of my CV? Download it here:
 
@@ -74,13 +83,13 @@ Need a copy of my CV? Download it here:
 ## 🤝 Contact Me
 
 <p align="left">
-<a href="mailto:your_email@example.com">
+<a href="hetlimbani61@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://instagram.com/your_handle">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/het-limbani-a62a8131a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
