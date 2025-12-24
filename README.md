@@ -56,43 +56,26 @@ I specialize in building scalable web applications and exploring Machine Learnin
 | **Cyber Security Job Simulation** | Forage | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Forage_CyberJobSimulation.pdf) |
 
 ---
-
 ## 📊 GitHub Activity & Stats
 
 ### 🔹 Real-Time Metrics
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=radical"
-    width="48%"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=radical"
-    width="48%"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=radical&cache_seconds=1800" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔹 12-Month Activity Graph
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HetLimbani-learnerboy&theme=radical&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HetLimbani-learnerboy&theme=radical&area=true&hide_border=true" width="100%" alt="Month-wise Activity Graph" />
 </p>
 
 ---
 
 ### 🔹 Commit Streak
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HetLimbani-learnerboy&theme=radical"
-    width="100%"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HetLimbani-learnerboy&theme=radical&cache_seconds=1800" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 
