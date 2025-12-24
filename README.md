@@ -48,7 +48,7 @@ I specialize in building scalable web applications and exploring Machine Learnin
 | :--- | :--- | :---: |
 | **AWS Academy Graduate – Cloud Foundation** | Amazon Web Services | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/AWS_DC.pdf) |
 | **AWS Academy Graduate – Machine Learning Foundation** | Amazon Web Services | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/AWS_ML.pdf) |
-| **Cyber Security Job Simulation** | Forage | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Forage_Cyber.pdf) |
+| **Cyber Security Job Simulation** | Forage | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Forage_CyberJobSimulation.pdf) |
 
 ---
 
