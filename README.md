@@ -58,20 +58,23 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ---
 
 ## 🧩 LeetCode Activity
-"Continuously refining my problem-solving skills and mastery of Data Structures and Algorithms; here is a snapshot of my journey through algorithmic challenges."
+"Continuously refining my problem-solving skills and mastery of Data Structures and Algorithms."
 
 <p align="center">
   <a href="https://leetcode.com/u/DpCWSEyDG2/">
-    <img src="https://leetcard.jacoblin.cool/DpCWSEyDG2?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/DpCWSEyDG2?theme=light&font=Recursive&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
 ---
 
 ## 📄 Resume
-Looking for my professional background? You can view or download my CV here:
+Looking for my professional background? Click below to download:
 
-[![Download Resume](https://img.shields.io/badge/Download_Resume-0078D4?style=for-the-badge&logo=get-pocket&logoColor=white)](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/HetLimbani_Resume.pdf)
+<a href="https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/HetLimbani_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download_Resume_⬇️-0078D4?style=for-the-badge&logoColor=white" height="40px" />
+</a>
+
 ---
 
 ## 🤝 Contact Me
