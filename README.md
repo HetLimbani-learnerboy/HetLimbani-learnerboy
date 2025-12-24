@@ -8,6 +8,11 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ## 🛠 Technical Skills
 
 ### **Development & Programming**
+
+![Java](https://img.shields.io/badge/java-%23f8981d.svg?style=for-the-badge&logo=java&logoColor=white) 
+![CyberSecurity](https://img.shields.io/badge/Cyber_Security-%2320232a.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
