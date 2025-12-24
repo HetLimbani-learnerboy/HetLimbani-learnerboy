@@ -59,6 +59,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experien
 | **AWS Academy Graduate – Cloud Foundation** | Amazon Web Services | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/AWS_DC.pdf) |
 | **AWS Academy Graduate – Machine Learning Foundation** | Amazon Web Services | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/AWS_ML.pdf) |
 | **Cyber Security Job Simulation** | Forage | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Forage_CyberJobSimulation.pdf) |
+| **Prompt Engineering for Everyone** | Cognitive Class | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/IBM_Prompt Engineering.pdf) |
 
 ---
 
