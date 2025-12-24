@@ -46,10 +46,11 @@ I specialize in building scalable web applications and exploring Machine Learnin
 
 | Certificate Name | Issuer | Link |
 | :--- | :--- | :---: |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | [🔗 View](#) |
-| **AWS Solutions Architect** | Amazon Web Services | [🔗 View](#) |
-| **Software Engineering Virtual Experience** | Forage | [🔗 View](#) |
-| **Data Analytics Virtual Experience** | Forage | [🔗 View](#) |
+| **AWS Academy Graduate – Cloud Foundation** | Amazon Web Services | [🔗 View & Download](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/AWS_DC.pdf) |
+| **AWS Academy Graduate – Machine Learning Foundation** | Amazon Web Services | [🔗 View & Download](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/AWS_ML.pdf) |
+| **Cyber Security Job Simulation** | Forage (Goldman Sachs/Mastercard) | [🔗 View & Download](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/Forage_Cyber Job Simulation.pdf) |
+
+---
 
 ---
 
