@@ -73,7 +73,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experien
 
 ---
 
-## 📄 Resume & Professional Profile
+## 📄 Resume
 "Interested in my professional journey? You can explore my full background below by viewing my CV online or downloading it for your records."
 
 <p align="left">
