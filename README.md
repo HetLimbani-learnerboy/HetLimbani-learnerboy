@@ -8,11 +8,6 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ## 🛠 Technical Skills
 
 ### **Development & Programming**
-
-![Java](https://img.shields.io/badge/java-%23f8981d.svg?style=for-the-badge&logo=java&logoColor=white) 
-![CyberSecurity](https://img.shields.io/badge/Cyber_Security-%2320232a.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -30,11 +25,16 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ### **AI, ML & Security**
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-robot?style=for-the-badge&logo=openai&logoColor=white&color=412991)
 ![ML](https://img.shields.io/badge/Machine_Learning-brain?style=for-the-badge&logo=scikitlearn&logoColor=white&color=F7931E)
-![CyberSecurity](https://img.shields.io/badge/Cyber_Security-shield?style=for-the-badge&logo=hackthebox&logoColor=white&color=9FEF00)
+![CyberSecurity](https://img.shields.io/badge/Cyber_Security-%2320232a.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Services_Security-%23D32F2F.svg?style=for-the-badge&logo=auth0&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-%23005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white)
 
-### **Cloud & Databases**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### **Cloud & Networking**
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Networking](https://img.shields.io/badge/Computer_Networking-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-sky?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+
+### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![DBMS](https://img.shields.io/badge/DBMS-storage?style=for-the-badge&color=grey)
