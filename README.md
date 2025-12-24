@@ -73,12 +73,18 @@ I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experien
 
 ---
 
-## 📄 Resume
-Looking for my professional background? Click below to download:
+## 📄 Resume & Professional Profile
+"Interested in my professional journey? You can explore my full background below by viewing my CV online or downloading it for your records."
 
-<a href="https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/HetLimbani_Resume.pdf">
-  <img src="https://img.shields.io/badge/Download_Resume_⬇️-0078D4?style=for-the-badge&logoColor=white" height="40px" />
-</a>
+<p align="left">
+  <a href="https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/HetLimbani_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-34ADFF?style=for-the-badge&logo=eye&logoColor=white" height="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/raw/main/HetLimbani_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_CV_⬇️-0078D4?style=for-the-badge&logoColor=white" height="40px" />
+  </a>
+</p>
 
 ---
 
