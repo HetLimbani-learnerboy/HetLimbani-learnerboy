@@ -83,10 +83,10 @@ Need a copy of my CV? Download it here:
 ## 🤝 Contact Me
 
 <p align="left">
-<a href="hetlimbani61@gmail.com">
+<a href="mailto:hetlimbani61@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/your_handle">
+<a href="https://www.instagram.com/het_5506/?igsh=bzlteHI4c2xqcGZn#">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/het-limbani-a62a8131a/">
