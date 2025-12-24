@@ -1,6 +1,9 @@
 # Hi, I'm Het Limbani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🚀 Enthusiastic CSE (AI & ML) Student & Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cyber+Security+Enthusiast;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+</p>
+
 I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experience in full-stack development and machine learning. I build scalable applications using React.js and Node.js, integrate APIs, and develop ML models in Python. I am proficient in MongoDB and PostgreSQL and have a strong foundation in Data Structures and Algorithms, actively solving LeetCode problems in Java. I bring strong problem-solving, analytical, and collaborative skills.😉
 
 <img src="https://komarev.com/ghpvc/?username=HetLimbani-learnerboy&label=PROFILE+VIEWS&color=0078D4&style=flat-square" alt="Profile Views" />
@@ -98,7 +101,6 @@ Looking for my professional background? Click below to download:
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&width=600&lines=Exploring+new+technologies+every+day...;Building+cool+side+projects+🚀;Traveling+to+discover+new+cultures+🌍;Gaming+to+sharpen+strategy+skills+🎮;Problem-solving+one+challenge+at+a+time+🧩" alt="Typing SVG" />
 </p>
-
 </details>
 
 ---
