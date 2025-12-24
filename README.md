@@ -74,10 +74,9 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ---
 
 ## 📄 Resume
-Need a copy of my CV? Download it here:
+Looking for my professional background? You can view or download my CV here:
 
-[![Download Resume](https://img.shields.io/badge/Resume-Download_PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](YOUR_LINK_HERE)
-
+[![Download Resume](https://img.shields.io/badge/Download_Resume-0078D4?style=for-the-badge&logo=get-pocket&logoColor=white)](https://github.com/HetLimbani/HetLimbani/raw/main/HetLimbani_Resume.pdf)
 ---
 
 ## 🤝 Contact Me
