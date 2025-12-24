@@ -67,7 +67,7 @@ I specialize in building scalable web applications and exploring Machine Learnin
 ## 🧩 LeetCode Activity
 "Continuously refining my problem-solving skills and mastery of Data Structures and Algorithms; here is a snapshot of my journey through algorithmic challenges."
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/DpCWSEyDG2/">
     <img src="https://leetcard.jacoblin.cool/DpCWSEyDG2?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
   </a>
