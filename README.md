@@ -69,7 +69,7 @@ I specialize in building scalable web applications and exploring Machine Learnin
 
 <p align="left">
   <a href="https://leetcode.com/u/DpCWSEyDG2/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=DpCWSEyDG2&theme=radical" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/DpCWSEyDG2?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
