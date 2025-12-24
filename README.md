@@ -99,10 +99,12 @@ Looking for my professional background? Click below to download:
 
 ### **🎨 Hobbies & Passion**
 <p align="left">
-  <a href="https://github.com/HetLimbani-learnerboy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=0078D4&width=600&lines=Exploring+new+technologies+every+day...;Building+cool+side+projects+🚀;Traveling+to+discover+new+cultures+🌍;Gaming+to+sharpen+strategy+skills+🎮;Problem-solving+one+challenge+at+a+time+🧩&center=false&vCenter=true&repeat=true" alt="Sliding Hobbies" />
-  </a>
+  <img src="https://img.shields.io/badge/Traveling-FFF5F5?style=for-the-badge&logo=adventure-white&logoColor=FF4B4B" height="35">
+  <img src="https://img.shields.io/badge/Gaming-F5F5FF?style=for-the-badge&logo=get-pocket&logoColor=0078D4" height="35">
+  <img src="https://img.shields.io/badge/Tech_Exploring-F5FFF5?style=for-the-badge&logo=exploration&logoColor=6DA55F" height="35">
+  <img src="https://img.shields.io/badge/Problem_Solving-FFF9F5?style=for-the-badge&logo=puzzle&logoColor=F7931E" height="35">
 </p>
+</details>
 ---
 
 ## 🤝 Contact Me
