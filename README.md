@@ -64,11 +64,13 @@ I specialize in building scalable web applications and exploring Machine Learnin
 
 ---
 
-### 🧩 LeetCode Stats
-"My journey through algorithmic challenges and consistent practice in Data Structures."
+## 🧩 LeetCode Activity
+"Continuously refining my problem-solving skills and mastery of Data Structures and Algorithms; here is a snapshot of my journey through algorithmic challenges."
 
 <p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/?username=your_leetcode_username&theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/DpCWSEyDG2/">
+    <img src="https://leetcode-stats-six.vercel.app/?username=DpCWSEyDG2&theme=radical" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
