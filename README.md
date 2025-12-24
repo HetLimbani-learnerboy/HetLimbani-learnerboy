@@ -59,13 +59,24 @@ I specialize in building scalable web applications and exploring Machine Learnin
 
 ## 📊 GitHub Activity & Stats
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/HetLimbani)
+### **Contribution Heatmap**
+![GitHub Contribution Graph](https://ghchart.rshah.org/HetLimbani-learnerboy)
 
+### **Real-Time Language & Stats Metrics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani&show_icons=true&theme=radical&rank_icon=github" alt="Het's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HetLimbani&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=radical&hide_border=false" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=radical&rank_icon=github&hide_border=false" width="48%" alt="GitHub Stats" />
 </p>
 
+### **Dynamic Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HetLimbani-learnerboy&theme=radical&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+### **Current Streak**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HetLimbani-learnerboy&theme=radical" width="100%" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🧩 LeetCode Activity
