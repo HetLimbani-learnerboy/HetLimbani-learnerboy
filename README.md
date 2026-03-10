@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cyber+Security+Enthusiast;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
-I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experience in full-stack development and machine learning. I build scalable applications using React.js and Node.js, integrate APIs, and develop ML models in Python. I am proficient in MongoDB and PostgreSQL and have a strong foundation in Data Structures and Algorithms, actively solving LeetCode problems in Java. I bring strong problem-solving, analytical, and collaborative skills.😉
+I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experienced in building scalable applications using Node.js and React.js, integrating APIs, and implementing ML models with Python. Currently expanding backend expertise by learning Django and Flask for robust web application development. I am proficient in MongoDB and PostgreSQL and have a strong foundation in Data Structures and Algorithms, actively solving LeetCode problems in Java. I bring strong problem-solving, analytical, and collaborative skills.😉
 
 <img src="https://komarev.com/ghpvc/?username=HetLimbani-learnerboy&label=PROFILE+VIEWS&color=0078D4&style=flat-square" alt="Profile Views" />
 
@@ -25,6 +25,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experien
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -62,6 +63,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experien
 | **Cyber Security Job Simulation** | Forage | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Forage_CyberJobSimulation.pdf) |
 | **Yuva AI for All** | INDIAai | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/IndiaAI_YuvaAI.pdf) |
 | **Prompt Engineering for Everyone** | Cognitive Class | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/IBM_PromptEngineering.pdf) |
+| **Get started with Jira** | Coursera | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Coursera_GetStartedWithJira.pdf) |
 
 ---
 
