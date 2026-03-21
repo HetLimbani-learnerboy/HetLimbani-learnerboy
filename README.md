@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cyber+Security+Enthusiast;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
-I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experienced in building scalable applications using Node.js and React.js, integrating APIs, and implementing ML models with Python. Currently expanding backend expertise by learning Django and Flask for robust web application development. I am proficient in MongoDB and PostgreSQL and have a strong foundation in Data Structures and Algorithms, actively solving LeetCode problems in Java. I bring strong problem-solving, analytical, and collaborative skills.😉
+I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experience in building scalable applications using Node.js, Django, Flask APIs, and React.js ⚛️. I have worked on API integration and implemented machine learning models using Python 🤖. I am proficient in MongoDB and PostgreSQL, and have a strong foundation in Data Structures and Algorithms 🧠, actively solving problems on LeetCode in Java. I bring strong problem-solving, analytical, and collaborative skills 🤝.
+
 
 <img src="https://komarev.com/ghpvc/?username=HetLimbani-learnerboy&label=PROFILE+VIEWS&color=0078D4&style=flat-square" alt="Profile Views" />
 
@@ -102,9 +103,9 @@ I am an enthusiastic CSE (AI & ML) student at Adani University📍 with experien
 ### **🌱 My Interests**
 > I am deeply passionate about the following domains, constantly building projects to bridge the gap between theory and real-world application:
 
+* 🤖 <font color="#F7931E">**AI/ML:**</font> Building intelligent systems, predictive models, and exploring neural networks.
 * 🛡️ <font color="#31E1F7">**Cyber Security:**</font> Exploring ethical hacking, network security, and cryptography.
-* 🧠 <font color="#F7931E">**Machine Learning:**</font> Building predictive models and exploring neural networks.
-* 💻 <font color="#6DA55F">**MERN Stack:**</font> Creating end-to-end scalable web applications with high performance.
+* 💻 <font color="#6DA55F">**Full Stack Development:**</font> Developing scalable end-to-end web applications with modern technologies.
 
 <br />
 
