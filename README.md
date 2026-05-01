@@ -124,9 +124,9 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 
 ---
 <h2 align="center">🐍 Contribution Activity</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" alt="Het Limbani's Contribution Snake" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/dist/github-contribution-grid-snake.svg" alt="HetLimbani's GitHub Contribution Snake" width="100%" style="max-width: 900px; display: block; margin: 0 auto;" />
+</div>
 
 ---
 
