@@ -86,12 +86,8 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 <h2 align="center">📊 GitHub Dashboard</h2>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <!-- Main Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=flat&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" width="100%" />
-      </td>
       <td align="center" width="50%">
         <!-- Streak Stats -->
         <img src="https://streak-stats.demolab.com/?user=HetLimbani-learnerboy&theme=flat&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
@@ -103,7 +99,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 <br/>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" width="50%">
         <!-- Top Languages -->
@@ -116,7 +112,6 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
     </tr>
   </table>
 </div>
-
 <br/>
 
 <div align="center">
@@ -128,9 +123,11 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 
 <h2 align="center">🐍 Contribution Activity</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" style="display: block; margin: 0 auto;" />
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" />
+  <img alt="Github contribution snake animation" src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" style="max-width: 100%; display: block; margin: 0 auto;" />
+</picture>
 
 ---
 
