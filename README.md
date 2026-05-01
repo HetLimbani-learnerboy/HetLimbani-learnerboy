@@ -101,10 +101,13 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=flat&hide_border=false&langs_count=8&hide=html,css" width="100%" />
-      </td>
+   <td align="center" width="50%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&count_private=true" 
+    alt="Top Languages" 
+    width="90%" 
+  />
+</td>
       <td align="center" width="50%">
         <!-- Productive Time -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HetLimbani-learnerboy&theme=default&utcOffset=5.5" width="100%" />
@@ -123,11 +126,18 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 
 <h2 align="center">🐍 Contribution Activity</h2>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" />
-  <img alt="Github contribution snake animation" src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" style="max-width: 100%; display: block; margin: 0 auto;" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake-dark.svg" />
+    
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" />
+    
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
