@@ -115,8 +115,9 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 <!-- ===================== SNAKE ===================== -->
 <h2 align="center">🐍 Contribution Activity</h2>
 <p align="center">
-  <!-- The snake color is usually determined by your contribution history colors, but it looks great on light backgrounds -->
-  <img src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 </p>
 
 ---
