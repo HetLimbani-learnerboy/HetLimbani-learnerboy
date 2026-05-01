@@ -52,6 +52,8 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -59,6 +61,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 
 | Certificate Name | Issuer | Link |
 | :--- | :--- | :---: |
+| **AWS Academy Graduate – Cloud Architecting** | Amazon Web Services | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/AWS_CC.pdf) |
 | **AWS Academy Graduate – Cloud Foundation** | Amazon Web Services | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/AWS_DC.pdf) |
 | **AWS Academy Graduate – Machine Learning Foundation** | Amazon Web Services | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/AWS_ML.pdf) |
 | **Cyber Security Job Simulation** | Forage | [🔗 View](https://github.com/HetLimbani-learnerboy/HetLimbani-learnerboy/blob/main/Forage_CyberJobSimulation.pdf) |
@@ -75,6 +78,37 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
   <a href="https://leetcode.com/u/DpCWSEyDG2/">
     <img src="https://leetcard.jacoblin.cool/DpCWSEyDG2?theme=light&font=Recursive&ext=activity" alt="LeetCode Stats" />
   </a>
+</p>
+
+---
+
+<!-- ===================== STATS ===================== -->
+<h2 align="center">📊 GitHub Dashboard</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=HetLimbani-learnerboy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HetLimbani-learnerboy&theme=tokyonight&utcOffset=5.5" width="40%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HetLimbani-learnerboy&theme=tokyonight" width="90%" />
+</div>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+<h2 align="center">🐍 Contribution Activity</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
