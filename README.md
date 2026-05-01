@@ -102,11 +102,7 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
   <table border="0">
     <tr>
      <td align="center" width="50%">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&count_private=true&cache_seconds=1800" 
-    alt="Top Languages" 
-    width="100%" 
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=tokyonight" />
 </td>
       <td align="center" width="50%">
         <!-- Productive Time -->
