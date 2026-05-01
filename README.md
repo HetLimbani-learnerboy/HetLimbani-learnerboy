@@ -86,36 +86,51 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 <h2 align="center">📊 GitHub Dashboard</h2>
 
 <div align="center">
-  <!-- Main Stats Card: Using 'flat' theme for a clean light look -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=flat&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" width="48%" />
-  
-  <!-- Streak Stats: Using 'borderless' or 'highcontrast' for light mode -->
-  <img src="https://streak-stats.demolab.com/?user=HetLimbani-learnerboy&theme=flat&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <!-- Main Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=HetLimbani-learnerboy&show_icons=true&theme=flat&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <!-- Streak Stats -->
+        <img src="https://streak-stats.demolab.com/?user=HetLimbani-learnerboy&theme=flat&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Top Languages: Compact layout with light colors -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=flat&hide_border=false&langs_count=8&hide=html,css" width="40%" />
-  
-  <!-- Productive Time: Set to 'visual_studio_light' or 'default' -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HetLimbani-learnerboy&theme=default&utcOffset=5.5" width="40%" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetLimbani-learnerboy&layout=compact&theme=flat&hide_border=false&langs_count=8&hide=html,css" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <!-- Productive Time -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HetLimbani-learnerboy&theme=default&utcOffset=5.5" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Profile Details: Using 'default' light theme -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HetLimbani-learnerboy&theme=default" width="90%" />
+  <!-- Profile Details: Full width -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HetLimbani-learnerboy&theme=default" width="95%" alt="Profile Details" />
 </div>
 
 ---
 
 <h2 align="center">🐍 Contribution Activity</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HetLimbani-learnerboy/HetLimbani-learnerboy/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" style="display: block; margin: 0 auto;" />
+</div>
 
 ---
 
