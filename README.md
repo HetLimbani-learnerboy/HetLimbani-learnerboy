@@ -1,13 +1,19 @@
 # Hi, I'm Het Limbani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cyber+Security+Enthusiast;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experience in building scalable applications using Node.js, Django, Flask APIs, and React.js ⚛️. I have worked on API integration and implemented machine learning models using Python 🤖. I am proficient in MongoDB and PostgreSQL, and have a strong foundation in Data Structures and Algorithms 🧠, actively solving problems on LeetCode in Java. I bring strong problem-solving, analytical, and collaborative skills 🤝.
 
 
-<img src="https://komarev.com/ghpvc/?username=HetLimbani-learnerboy&label=PROFILE+VIEWS&color=0078D4&style=flat-square" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=HetLimbani-learnerboy&label=PROFILE+VIEWS&color=0078D4&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://hetlimbani.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0078D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -30,9 +36,10 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### **AI, ML & Security**
+### **AI, ML & MLOps**
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-robot?style=for-the-badge&logo=openai&logoColor=white&color=412991)
 ![ML](https://img.shields.io/badge/Machine_Learning-brain?style=for-the-badge&logo=scikitlearn&logoColor=white&color=F7931E)
+![MLOps](https://img.shields.io/badge/MLOps-%23005571.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![CyberSecurity](https://img.shields.io/badge/Cyber_Security-%2320232a.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Web Security](https://img.shields.io/badge/Web_Services_Security-%23D32F2F.svg?style=for-the-badge&logo=auth0&logoColor=white)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-%23005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white)
@@ -154,9 +161,9 @@ I am an enthusiastic CSE (AI & ML) student at Adani University 📍 with experie
 ### **🌱 My Interests**
 > I am deeply passionate about the following domains, constantly building projects to bridge the gap between theory and real-world application:
 
-* 🤖 <font color="#F7931E">**AI/ML:**</font> Building intelligent systems, predictive models, and exploring neural networks.
-* 🛡️ <font color="#31E1F7">**Cyber Security:**</font> Exploring ethical hacking, network security, and cryptography.
+* 🤖 <font color="#F7931E">**AI/ML & MLOps:**</font> Building intelligent systems, end-to-end pipelines, and predictive models.
 * 💻 <font color="#6DA55F">**Full Stack Development:**</font> Developing scalable end-to-end web applications with modern technologies.
+* 🚀 <font color="#31E1F7">**Emerging Technologies & Continuous Learning:**</font> Constantly exploring new frameworks, modern developer tools, and cutting-edge software paradigms.
 
 <br />
 
